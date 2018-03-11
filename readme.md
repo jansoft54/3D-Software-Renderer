@@ -19,6 +19,8 @@ To contribute you first have to install the latest version of [SFML](https://www
 ![sfml](https://user-images.githubusercontent.com/18514213/37216057-1c145efe-23ba-11e8-9b29-14fddc62937c.PNG)
 
 
+<a href="https://imgflip.com/gif/266cwy"><img src="https://i.imgflip.com/266cwy.gif" title="made at imgflip.com"/></a>
+
 
 ### Features
 

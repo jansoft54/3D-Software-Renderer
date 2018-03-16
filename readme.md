@@ -40,6 +40,7 @@ To contribute you first have to install the latest version of [SFML](https://www
 * Maybe texture mapping
 
 * *Obj file loader*
+* *Multithreaded rendering*
 
 
 
